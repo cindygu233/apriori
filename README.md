@@ -1,3 +1,3 @@
 # apriori
 
-Self-code Apriori to fet frequent itemset
+Self-code Apriori to get frequent itemset
